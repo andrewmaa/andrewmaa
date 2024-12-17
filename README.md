@@ -2,7 +2,7 @@
 
 📖 sophomore at nyu
 🎨 currently learning data structures & frontend design
-💼 you can reach me on linkedin or my email, (andrewwmaa@gmail.com)[mailto:andrewwmaa@gmail.com].
+💼 you can reach me on linkedin or my email, [andrewwmaa@gmail.com](mailto:andrewwmaa@gmail.com).
 
 <!--
 **andrewmaa/andrewmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
