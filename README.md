@@ -1,7 +1,7 @@
 ## Hi, I'm Andrew. 👋
 
 📖 sophomore at nyu\
-🎨 currently learning data structures & frontend design\
+🎨 currently learning computer systems & frontend design\
 💼 you can reach me on [linkedin](https://www.linkedin.com/in/andrewmaa/) or my email, [andrewwmaa@gmail.com](mailto:andrewwmaa@gmail.com). 
 
 looking forward to connecting with you 🙌
