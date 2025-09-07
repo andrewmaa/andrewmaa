@@ -2,7 +2,6 @@
 
 📖 junior at nyu\
 🎨 currently learning object oriented programming\
-🛠️ swe intern at blockus\
 💼 you can reach me on [linkedin](https://www.linkedin.com/in/andrewmaa/) or my email, [andrew.ma@nyu.edu](mailto:andrew.ma@nyu.edu).\
 ✨ [view my portfolio](https://andrewma.io)!
 
