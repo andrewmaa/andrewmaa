@@ -1,7 +1,7 @@
 ## Hi, I'm Andrew. 👋
 
 📖 junior at nyu\
-🎨 currently learning object oriented programming\
+🎨 currently learning natural language processing and data science\
 💼 you can reach me on [linkedin](https://www.linkedin.com/in/andrewmaa/) or my email, [andrew.ma@nyu.edu](mailto:andrew.ma@nyu.edu).\
 ✨ [view my portfolio](https://andrewma.io)!
 
